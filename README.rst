@@ -1,3 +1,5 @@
+Please note this project is trying to upgrade original MegaMark16/django-cms-themes project to compatible with Django CMS 3.5+. We are still under progress, but we have a lot of Django CMS themes compatible with Django CMS 3.5+ already, please visit https://www.django-cms-themes.com/ to get themes you want. :)
+
 django-cms-themes
 =================
 A django app that lets you load theme packs that are bundled templates, and
